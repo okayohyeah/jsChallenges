@@ -1,0 +1,116 @@
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("stars.jpg");
+  min-height: 75%;
+}
+
+header {
+  padding: 450px 1000px 0px 0px
+
+}
+
+h1 {
+  color:#ddd;
+  text-align:center;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: normal;
+  font-size: 70px;
+  margin-bottom:0;
+}
+
+
+ul{
+  list-style-type: none;
+
+}
+li{
+  display:inline;
+  margin-right:80px;
+}
+li a {
+color: #9999FF;
+font-size: 18px;
+text-decoration: none;
+font-family: "Josefin Sans", sans-serif;
+}
+
+li a:hover {
+  color: #FFF;
+}
+
+body{
+  background-color: black
+}
+
+h2 {
+  color:gray;
+  font-size:20px;
+  font-family:"Josefin Sans", sans-serif;
+  text-align: left;
+}
+
+p {
+  color:#ddd;
+  font-size: 17px;
+  font-family:"Josefin Slab",serif;
+
+}
+
+#kathy{
+  width: 60%;
+  margin-left: 100px;
+  margin-top: 10px;
+  float:left
+}
+
+#yanka{
+  width:60%;
+  margin-left: 100px;
+  float:left;
+}
+
+#mission{
+  width: 60%;
+  margin-left: 100px;
+  float:left
+
+}
+
+aside{
+  float:right;
+  margin-top: 20px;
+}
+
+img {
+  margin-top: 20px;
+  margin-right: 60px;
+}
+
+img:hover{
+  opacity:0.5
+}
+
+
+form {
+                width:500px;
+                margin-left: 1260px;
+                margin-top: 0px;
+}
+.search {
+                padding:8px 15px;
+                background:rgba(50, 50, 50, 0.2);
+                border:0px solid #dbdbdb;
+}
+.button {
+                position:relative;
+                padding:6px 15px;
+                left:-8px;
+                border:2px solid #207cca;
+                background-color:#207cca;
+                color:#fafafa;
+}
+.button:hover  {
+                background-color:#fafafa;
+                color:#207cca;
+}
